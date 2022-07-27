@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/TeGa00/Interactive-rating-component
+- Solution URL: https://github.com/thiagogrn/FM-N-interactive-rating-component
 - Live Site URL: https://thiagogrn.github.io/FM-N-interactive-rating-component/
 
 ## My process
